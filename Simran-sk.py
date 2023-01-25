@@ -4,5 +4,7 @@
 'Today i am on leave'
 'I will go to market'
 'Ok Go'
+'You go'
+'Bye'
 'Bye'
 'Bye'
