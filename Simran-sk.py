@@ -2,3 +2,6 @@
 'I am slepping'
 'I am not felling well'
 'Today i am on leave'
+'I will go to market'
+'Ok Go'
+'Bye'
